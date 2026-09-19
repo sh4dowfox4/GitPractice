@@ -10,6 +10,6 @@
 
 Научиться работать с Git и GitHub
 
-# GutHub
+# GitHub
 
 Мой проект опубликован на GitHub
